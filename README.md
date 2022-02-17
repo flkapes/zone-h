@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="#woy">My skills</a> • <a href="#woy">Installation</a> • <a href="#woy">About me</a> • <a href="#woy">Donation</a>
+<a href="#woy">My skills</a> • <a href="#woy">Installation</a> • <a href="#woy">About me</a> • <a href="#woy">Donation</a> • <a href="#woy">My github page</a>
 </p>
 
 
