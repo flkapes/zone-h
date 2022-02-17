@@ -1,0 +1,8 @@
+title: 'Hi, i'm alfian'
+
+defaults:
+  -
+    scope:
+      path: 'README.md'
+    values:
+      permalink: 'index.html'
