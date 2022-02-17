@@ -1,11 +1,11 @@
 * { font-family: "Patrick Hand", cursive; }
 
 body {
-  background-color: white;
+  background-color: black;
 }
 
 a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
@@ -29,23 +29,23 @@ a {
 .button {
   border: none;
   color: white;
-  padding: 16px 32px; 
+  padding: 14px 33px; 
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 25px;
+  font-size: 23px;
   margin: 4px 2px;
-  -webkit-transition-duration: 0.4s; 
-  transition-duration: 0.4s;
+  -webkit-transition-duration: 0.5s; 
+  transition-duration: 0.5s;
   cursor: pointer;
-  border-radius: 8px;
+  border-radius: 10px;
   max-width: 99%;
   max-height: 99%;
 }
 
-.Skill {
+.skill {
   background-color: blue;
-  color: black;
+  color: blue;
   border: 2px solid blue;
 }
 
@@ -79,12 +79,12 @@ a {
   border: 2px solid #99c794;
 }
 
-.footer {
+.bgst {
    position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
-   color: #d1dce6;
+   color: white;
    text-align: center;
    background-color: #1a2b34; 
    opacity: 0.9;
