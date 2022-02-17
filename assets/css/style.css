@@ -1,11 +1,11 @@
-* { font-family: "Comfortaa", cursive; }
+* { font-family: "Patrick Hand", cursive; }
 
 body {
-  background-color: black;
+  background-color: white;
 }
 
 a {
-  color: #6699cc;
+  color: black;
   text-decoration: none;
 }
 
@@ -43,25 +43,25 @@ a {
   max-height: 99%;
 }
 
-.installation {
-  background-color: #6699cc;
-  color: #d1dce6;
-  border: 2px solid #6699cc;
+.Skill {
+  background-color: blue;
+  color: black;
+  border: 2px solid blue;
 }
 
-.installation:hover {
+.skill:hover {
   background-color: #1a2b34; 
   color: #d1dce6;
   border: 2px solid #6699cc;
 }
 
-.development {
+.hacking {
   background-color: #ec5f67;
   color: #d1dce6;
   border: 2px solid #ec5f67;
 }
 
-.development:hover {
+.hacking:hover {
   background-color: #1a2b34; 
   color: #d1dce6;
   border: 2px solid #ec5f67;
