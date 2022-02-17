@@ -1,5 +1,5 @@
 backend:
-  name: github.io
+  name: github
   repo: xjusthaxor/xjusthaxor.github.io
 
 publish_mode: editorial_workflow
