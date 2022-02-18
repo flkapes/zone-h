@@ -16,5 +16,7 @@ Profile
 </a>
 <a href="https://github.com/xjusthaxor/#403"><img src="https://dabuttonfactory.com/button.png?t=About&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=cyan">
 </a>
-<a href="https://github.com/xjusthaxor/#403"><img src="https://dabuttonfactory.com/button.png?t=Installation&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=cyan">
+<a href="https://github.com/xjusthaxor/#403"><img src="https://dabuttonfactory.com/button.png?t=Source&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=cyan">
+</a>
+<a href="https://github.com/xjusthaxor/#403"><img src="https://dabuttonfactory.com/button.png?t=Tools and files&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=cyan">
 </a>
