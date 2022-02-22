@@ -11,6 +11,8 @@ $ pkg update && pkg upgrade
 $ git clone https://github.com/xjusthaxor/Zone_H-Grabber
      Then install the Zone H tool
 
+$ pip install request
+
 $ cd Zone_H-Grabber
      Then go to the directory
 
