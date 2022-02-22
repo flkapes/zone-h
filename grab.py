@@ -89,7 +89,7 @@ class Pausi:
     while i<=50:
      try:
       #pg = 10
-      #self.Url = 'http://zone-h.org/archive/notifier=zeerx7?page='+str(i+1)
+      #self.Url = 'http://zone-h.org/archive/notifier=hmei7?page='+str(i+1)
       self.Url = self.SetUrl+'page='+str(i+1)
       cookies = {
          'PHPSESSID' : self.PHPSESSID,
@@ -135,9 +135,9 @@ YP  d8' .8P  Y8. 888o  88 88'            88   88
  d8' db `8b  d8' 88  V888 88.            88   88
 d88888P  `Y88P'  VP   V8P Y88888P        YP   YP
 
-%s # --%s  Zone-H Grabber
-%s # --%s  Coded by Zeerx7 @ XploitSecID
-%s # --%s  github.com/404rgr/zone-h_grabber
+%s # --%s  Zone-H Grraber
+%s # --%s  Recode by cyborg xploit
+%s # --%s  github.com/xjusthaxor
 
 %s1.%s Mass Grab notifier
 %s2.%s single grab notifier
