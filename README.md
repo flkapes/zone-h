@@ -3,5 +3,5 @@
 ```
 $ git clone https://github.com/flux10n/zone-h ~#installation
 $ cd zone-h
-$ python grab.py
+$ python run.py
 ```
