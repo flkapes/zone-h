@@ -1,25 +1,7 @@
-Function
-========
-> *Usually used to mirror defaced websites.*
+## Zone-H Grabber 
 
-Installation
-============
-```console
-$ pkg update && pkg upgrade
-     First of all update first
-
-$ git clone https://github.com/xjusthaxor/Zone_H-Grabber
-     Then install the Zone H tool
-
-$ pip install request
-
-$ cd Zone_H-Grabber
-     Then go to the directory
-
-$ ls
-     First, check whether you have successfully entered or not, if successful, there will be a grab.py text
-
+```
+$ git clone https://github.com/flux10n/zone-h ~#installation
+$ cd zone-h
 $ python grab.py
-     Then run the tool
-
 ```
