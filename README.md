@@ -1,11 +1,3 @@
- 
-
-```
-
-$ 
-$ python run.py
-```
-
 ### Zone-H Grabber
 
 | Installation |  About   |
